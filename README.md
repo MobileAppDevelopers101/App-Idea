@@ -17,7 +17,9 @@
 
 ### User Stories
 // TODO: Enumerate User Stories
-1. User can...
+1. User can search up the meaning of a word they scan. 
+2. User can scan a handwritten document and the app give dictonary definition
+3. Give users the ability to save the word locations in the book by page
 
 ---
 
