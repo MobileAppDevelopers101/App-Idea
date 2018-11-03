@@ -17,12 +17,44 @@
 
 ### User Stories
 // TODO: Enumerate User Stories
-1. User can search up the meaning of a word they scan. 
-2. User can scan a handwritten document and the app give dictonary definition
-3. Give users the ability to save the word locations in the book by page
-
+ * Login/create account
+ * Look up word
+ * Scan handwritten/printed document for that word
+ * Saved words section
+ 
+**Optional Nice-to-have Stories**
+ * Gives you the dictonary definition of a word 
 ---
+## 2. Screen Archetypes
 
+ * Register/Login Screen
+   * Prompt the user to sign in with either gmail or facebook etc
+   * ...
+ * Word input
+   * Prompt the user to put in the word they want to find in a document.
+   * Turn on camera and search for the word.
+ * Save word location
+   * Ask user if they wanna save the page no./Book name where they found it.
+ 
+ 
+ ## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Look Up word
+ * Scan document
+ * Saved Words 
+
+**Flow Navigation** (Screen to Screen)
+
+ * Register/Login Screen
+   * Will use gmail or facebook to login
+   
+ * Word Input 
+   * Text field to get user input or can use a camera to scan a word
+ 
+ * Save word location 
+     * get word definition 
 ### Wireframes
 // TODO: Add Wireframe Images
 
