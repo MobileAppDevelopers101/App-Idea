@@ -56,7 +56,12 @@
  * Save word location 
      * get word definition 
 ### Wireframes
-// TODO: Add Wireframe Images
+
+<img src="http://g.recordit.co/tdDEbh16vQ.gif" width=750 height=600><br>
+http://g.recordit.co/tdDEbh16vQ.gif
+
+* WireFrame Screen Shot: https://docs.google.com/document/d/1Z9VQ8wNFo-Ut-RxU1bqaIsstyHF547TQ8DXEb0jPpo8/edit?usp=sharing
+
 
 ---
 
