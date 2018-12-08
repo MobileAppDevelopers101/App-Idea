@@ -9,7 +9,7 @@
 
 - Mobile:The utility for this would be more biased towards mobiles since it is much more convenient.
 - Story: Lets users create an account and also display a history of words searched. Additional features might include a dictionary to display the word,s meanings as well.
-- Market:Will primarily focus on school and college students but the pp can be used by any book reader.
+- Market:Will primarily focus on school and college students but the app can be used by any book reader.
 - Habit: Users can use the app to find words their meanings.
 - Scope: We can allow users to scan handwritten documents, and when we scan it will give users the definition using a dictonary
 
@@ -19,7 +19,7 @@
 // TODO: Enumerate User Stories
  * Login/create account
  * Look up word
- * Scan handwritten/printed document for that word
+ * Scan printed document/textbook for that word
  * Saved words section
  
 **Optional Nice-to-have Stories**
